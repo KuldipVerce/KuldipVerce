@@ -98,5 +98,5 @@
 ## 📊 Language Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berthutapea&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldipVerce&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
 </div>
