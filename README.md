@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻 Hi, I'm Kuldip Panditpawar</h1>
 
-<img width="842" height="210" src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.avif" alt="banner" /><br>
+<img src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.avif" alt="banner" /><br>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=KuldipVerce&label=Profile%20views&color=0e75b6&style=flat" alt="berthutapea" /> 
