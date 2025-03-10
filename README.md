@@ -11,14 +11,13 @@
 
 ## 👓 Here's some fun facts about me:
 
-- ✨ I am a Full Stack Developer (MERN) with having 2+ years of experience.
+- ✨ I am a Full Stack Developer with having 8+ years of experience.
 - ⚡️ I am capable to solve working problems.
 - 💫 Passionate about learning & development to reach the target.
-- 🚀 My next mission is to become a Senior Software Engineer.
+- 🚀 My next mission is to become a Lead Software Engineer.
 - 💥 I would love to build some Giant Website.
-- 📫 I am also a student of Computer Science & Technology.
 - 🌐 My portfolio: [Portfolio](https://react-js-project-ochre.vercel.app/)
-- 📝 Get Details about me: [Resume](https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=sharing)
+- 📝 Get Details about me: [Resume](https://res.cloudinary.com/da2ugvucc/image/upload/v1735987765/gql2rkpme0azjp7q36s9.png)
 - 💬 Keep me in your touch : kpanditpawar@gmail.com
 
   <br><br>
@@ -26,7 +25,7 @@
 ## 👉 Connect with me:
 
 <p align="left">
-    <a style="margin: 0 10px" href="https://react-js-project-ochre.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://i.ibb.co/CKnDqFN/Gilbert-Hutapea.png" alt="portfolio" height="30" width="30" /></a>
+    <a style="margin: 0 10px" href="https://react-js-project-ochre.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://res.cloudinary.com/da2ugvucc/image/upload/v1741603640/kuldip_pandit_profile_pic_enhanced4_lc9wbo.png" alt="portfolio" height="30" width="30" /></a>
     <a style="margin: 0 10px" href="https://www.linkedin.com/in/gilberthutapea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/GilbertHutapeaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   </a>
