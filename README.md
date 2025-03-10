@@ -29,7 +29,7 @@
     <a style="margin: 0 10px" href="https://www.linkedin.com/in/kuldip-panditpawar-833ba9157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://x.com/k_panditpawar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   </a>
-<!--     <a style="margin: 0 10px" href="https://www.instagram.com/berthutapea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
+    <a style="margin: 0 10px" href="https://www.instagram.com/kuldippanditpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p><br>
 
 ## ✨ Technologies & Tools:
@@ -37,6 +37,8 @@
 <p align="left">
 
 <!-- Front End -->
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="React JS" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
