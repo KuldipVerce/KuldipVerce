@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻 Hi, I'm Kuldip Panditpawar</h1>
 
-<img src="./banner.png" alt="banner" /><br>
+<img src="[./banner.png](https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?t=st=1741602526~exp=1741606126~hmac=b8820b4e0e3a18ac4f96d3c85aab8cf9367bf2b4384b88b146a8c00d110484c7&w=2000)" alt="banner" /><br>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=berthutapea&label=Profile%20views&color=0e75b6&style=flat" alt="berthutapea" /> 
