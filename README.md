@@ -26,10 +26,10 @@
 
 <p align="left">
     <a style="margin: 0 10px" href="https://react-js-project-ochre.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://res.cloudinary.com/da2ugvucc/image/upload/v1741603640/kuldip_pandit_profile_pic_enhanced4_lc9wbo.png" alt="portfolio" height="30" width="30" /></a>
-    <a style="margin: 0 10px" href="https://www.linkedin.com/in/gilberthutapea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-    <a href="https://twitter.com/GilbertHutapeaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+    <a style="margin: 0 10px" href="https://www.linkedin.com/in/kuldip-panditpawar-833ba9157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://x.com/k_panditpawar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   </a>
-    <a style="margin: 0 10px" href="https://www.instagram.com/berthutapea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<!--     <a style="margin: 0 10px" href="https://www.instagram.com/berthutapea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> -->
 </p><br>
 
 ## ✨ Technologies & Tools:
