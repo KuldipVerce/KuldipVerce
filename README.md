@@ -3,8 +3,8 @@
 <img width="842" height="210" src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.avif" alt="banner" /><br>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=berthutapea&label=Profile%20views&color=0e75b6&style=flat" alt="berthutapea" /> 
-<img src="https://img.shields.io/github/followers/berthutapea" alt="berthutapea" /> 
+<img src="https://komarev.com/ghpvc/?username=KuldipVerce&label=Profile%20views&color=0e75b6&style=flat" alt="berthutapea" /> 
+<img src="https://img.shields.io/github/followers/KuldipVerce" alt="berthutapea" /> 
 </p><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Full+Stack+Developer;A+MERN+Stack+Developer;A+React+JS+Developer;)](https://git.io/typing-svg)
